@@ -1,2 +1,3 @@
 # FDB-TLABC-ve-K-nn-ile-Sezgisel-Boyut-Indirgeme
-FDB-TLABC ve K-nn ile Sezgisel Boyut İndirgeme Algoritma Tasarımı
+FDB-TLABC ve K-nn ile Sezgisel Boyut İndirgeme Algoritma Tasarımı.Bu projede Meta-sezgisel FDB-TLABC ve k-nn algoritması ile problem nitelikleri arasından etkili olanların belirlenmesi üzerine çalışılmıştır (boyut indirgeme algoritmasının tasarımı).
+Meta-sezgisel FDB-TLABC algoritmasıyla k-nn algoritması birlikte çalışacak şekilde tasarlanmıştır. Sezgisel algoritmanın görevi probleme ait öz nitelikleri ağırlıklandırmak ve k-nn algoritmasının en iyi sınıflandırma performansı sergilemesini sağlayan optimum ağırlık katsayılarını bulmaktır. Optimum ağırlık katsayıları üzerinden boyut indirgeme (eşik değere göre) yapılmaktadır.
